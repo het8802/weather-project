@@ -1,0 +1,44 @@
+{
+    "delhi" : {
+        "temperature" : "20",
+        "max temperature" : "30",
+        "min temperature" : "16",
+        "type" : "Foggy"
+    },
+    "banglore" : {
+        "temperature" : "20",
+        "max temperature" : "30",
+        "min temperature" : "17",
+        "type" : "Mostly clear"
+    },
+    "mumbai" : {
+        "temperature" : "28",
+        "max temperature" : "32",
+        "min temperature" : "27",
+        "type" : "Haze"
+    },
+    "kolkata" : {
+        "temperature" : "23",
+        "max temperature" : "33",
+        "min temperature" : "20",
+        "type" : "Haze"
+    },
+    "chennai" : {
+        "temperature" : "27",
+        "max temperature" : "31",
+        "min temperature" : "25",
+        "type" : "Mostly clear"
+    },
+    "pune" : {
+        "temperature" : "26",
+        "max temperature" : "34",
+        "min temperature" : "22",
+        "type" : "Mostly cloudy"
+    },
+    "ahmedabad" : {
+        "temperature" : "26",
+        "max temperature" : "37",
+        "min temperature" : "23",
+        "type" : "Smoky"
+    }
+}
